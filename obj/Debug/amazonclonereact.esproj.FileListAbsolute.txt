@@ -1,0 +1,2 @@
+D:\Dipali\AmazonCloneReact\AmazonCloneReact\obj\Debug\amazonclonereact.esproj.SuggestedBindingRedirects.cache
+D:\Dipali\AmazonCloneReact\AmazonCloneReact\obj\Debug\amazonclonereact.esproj.CoreCompileInputs.cache
